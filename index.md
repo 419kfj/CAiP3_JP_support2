@@ -2,4 +2,4 @@
 
 こうやって、ファイルを管理できるか。
 
-<a href="./chapters/cars.html">chapters/cars.html</a>
+[第一章](./chapters/cars.html)
