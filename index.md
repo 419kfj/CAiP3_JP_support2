@@ -2,8 +2,6 @@
 
 こうやって、ファイルを管理できるか。
 
-- [第一章](./chapters/cars.html)
-
 - [第8章](./chapters/CAiP3-chap8.html)			
 - [第9章](./chapters/CAiP3-chap9.html)			
 - [第12章en](./chapters/CAiP3-chap12-en.html)			
