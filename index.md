@@ -1,7 +1,5 @@
 <h1>CAiP3 JP サポートサイト</h1>
 
-こうやって、ファイルを管理できるか。
-
 
 - [第1章](./chapters/junbichu.html)
 - [第2章](./chapters/junbichu.html)
